@@ -1,0 +1,23 @@
+[
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "AAAAA",
+      "url": "https://goubraim.github.io/images/signals/police1.webp",
+      "thumbnailUrl": "https://goubraim.github.io/images/signals/police2.webp"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "BBBB",
+      "url": "https://goubraim.github.io/images/signals/sign-23.webp",
+      "thumbnailUrl": "https://goubraim.github.io/images/signals/sign-24.webp"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "CCCC",
+      "url": "https://goubraim.github.io/images/signals/sign-80-11.webp",
+      "thumbnailUrl": "https://goubraim.github.io/images/signals/sign-80-13.webp"
+    }
+   ]
