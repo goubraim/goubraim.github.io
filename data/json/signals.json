@@ -3,21 +3,21 @@
       "albumId": 1,
       "id": 1,
       "title": "AAAAA",
-      "url": "https://goubraim.github.io/images/signals/police1.jpg",
-      "thumbnailUrl": "https://goubraim.github.io/images/signals/police2.jpg"
+      "url": "https://goubraim.github.io/data/images/signals/police1.jpg",
+      "thumbnailUrl": "https://goubraim.github.io/data/images/signals/police2.jpg"
     },
     {
       "albumId": 1,
       "id": 2,
       "title": "BBBB",
-      "url": "https://goubraim.github.io/images/signals/sign-23.jpg",
-      "thumbnailUrl": "https://goubraim.github.io/images/signals/sign-24.jpg"
+      "url": "https://goubraim.github.io/data/images/signals/sign-23.jpg",
+      "thumbnailUrl": "https://goubraim.github.io/data/images/signals/sign-24.jpg"
     },
     {
       "albumId": 1,
       "id": 3,
       "title": "CCCC",
-      "url": "https://goubraim.github.io/images/signals/sign-80-11.jpg",
-      "thumbnailUrl": "https://goubraim.github.io/images/signals/sign-80-13.jpg"
+      "url": "https://goubraim.github.io/data/images/signals/sign-80-11.jpg",
+      "thumbnailUrl": "https://goubraim.github.io/data/images/signals/sign-80-13.jpg"
     }
    ]
