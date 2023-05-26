@@ -5,13 +5,183 @@
       "image": "https://goubraim.github.io/data/images/mwakif/1.jpeg"
     },
     {
-      "id": 1,
-      "description": "",
-      "image": "https://goubraim.github.io/data/images/mwakif/1.jpeg"
+      "id": 2,
+      "description": "يوجد خط متصل : ممنوع على السيارة البيضاء تجاوز السيارة الخضراء.",
+      "image": "https://goubraim.github.io/data/images/mwakif/2.jpeg"
     },
     {
       "id": 3,
+      "description": "خط متواصل من جهة اليمين : ممنوع على السيارة الزرقاء تجاوز السيارة الحمراء.",
+      "image": "https://goubraim.github.io/data/images/mwakif/3.jpeg"
+    },
+    {
+      "id": 4,
+      "description": "يوجد خط متقطع من الجهة اليمنى : مسموح للسيارة الصفراء تجاوز السيارة الزرقاء.",
+      "image": "https://goubraim.github.io/data/images/mwakif/4.jpeg"
+    },
+    {
+      "id": 5,
+      "description": "ممنوع على السيارة الحمراء تجاوز سيارتين في نفس اللحظة.",
+      "image": "https://goubraim.github.io/data/images/mwakif/5.jpeg"
+    },
+    {
+      "id": 6,
+      "description": "الطريق ذات إتجاهين إثنين مسموح بالتجاوز.",
+      "image": "https://goubraim.github.io/data/images/mwakif/6.jpeg"
+    },
+    {
+      "id": 7,
+      "description": "العقبة : بما أن التراجع سهل بالنسبة للسيارة الصاعدة فمن الأفضل لها التراجع.",
+      "image": "https://goubraim.github.io/data/images/mwakif/7.jpeg"
+    },
+    {
+      "id": 8,
+      "description": "السيارة الصفراء غير متوقفة بشكل جيد، يجب عليها الوقوف خارج الطريق لأنها تعرقل حركة السير.",
+      "image": "https://goubraim.github.io/data/images/mwakif/8.jpeg"
+    },
+    {
+      "id": 9,
+      "description": "السيارة الحمراء متوقفة بشكل جيد، لأنها خارج الطريق ولا تعرقل حركة السير.",
+      "image": "https://goubraim.github.io/data/images/mwakif/9.jpeg"
+    },
+    {
+      "id": 10,
+      "description": "السيارة تخرج من المرآب يجب التوقف والتأكد من اليمين واليسار من خلو الطريق من العربات وبعد ذالك تخرج السيارة.",
+      "image": "https://goubraim.github.io/data/images/mwakif/10.jpeg"
+    },
+    {
+      "id": 11,
+      "description": "السيارتين غير منحازتين بشكل جيد، يعني أن السيارة التي تريد الإنعطاف لليمين يجب عليها الإنحياز لليمين وليس لليسار كما في الصورة، وبالنسبة للسيارة التي تريد الإنعطاف لليسار فيجب عليها الإنحياز لليسار وليس لليمين .",
+      "image": "https://goubraim.github.io/data/images/mwakif/11.jpeg"
+    },
+    {
+      "id": 12,
+      "description": "ملتقى الطرق والأسبقة هنا للسيارة القادمة من اليمين، السيارة الحمراء سوف تمر أولا وبعد ذلك السيارة الصفراء.",
+      "image": "https://goubraim.github.io/data/images/mwakif/12.jpeg"
+    },
+    {
+      "id": 13,
+      "description": "نتواجد في ملتقى طرق بدون لافتات طرقية وفي هذه الحالة الأسبقة للسيارات القادمة من اليمين، في هده الحالة الشاحنة لاتوجد في يمينها عربات إذن ستتقدم الى منتف التقاطع وتنتظر حتا يصبح يمينها فارغ إدن سوف تمر السيارة الحمراء أولا لأنها تتواجد في يمين السيارة الصفراء وبعد ذالك السيارة الصفراء وفي الأخير تكمل الشاحنة المرور.",
+      "image": "https://goubraim.github.io/data/images/mwakif/13.jpeg"
+    },
+    {
+      "id": 14,
+      "description": "إنتباه، توجد لافتة طرقية للسيارة الزرقاء تعني أنه لديها حق الاسبقة في ملتقى الطرق، بعد ذلك سوف تمر الشاحنة لأن اتجاهها مباشرة، وبعد ذلك سوف تمر السيارة الحمراء لأنها سوف تنعطف لليسار.",
+      "image": "https://goubraim.github.io/data/images/mwakif/14.jpeg"
+    },
+    {
+      "id": 15,
+      "description": "نتواجد في ملتقى الطرق، الشاحنة سوف تقوم بالمرور أولا، لأن السيارة الزرقاء تريد الانعطاف لليسار، في هذه الحالة سوف تتواجد الشاحنة على يمين السيارة الزرقاء، إذن تقوم الشاحنة بالمرور أولا.",
+      "image": "https://goubraim.github.io/data/images/mwakif/15.jpeg"
+    },
+    {
+      "id": 16,
+      "description": "نتواجد في ملتقى الطرق، الأسبقية للعربات القادمة من اليمين، سوف تقوم الشاحنة أولا بالمرور لأنه لا توجد عربات قادمة من الجهة اليمنى الخاصة بها، بعد ذلك سوف تقوم السيارة الصفراء بالمرور وأخيرا سوف تمر السيارة الحمراء.",
+      "image": "https://goubraim.github.io/data/images/mwakif/16.jpeg"
+    },
+    {
+      "id": 17,
+      "description": "نتواجد في ملتقى الطرق، الأسبقية للعربات القادمة من اليمين، سوف تمر السيارة الزرقاء، وبعد ذلك السيارة البرتقالية لأنها متجهة مباشرة، وببعد ذلك السيارة الخضراء  وأخيرا سوف تمر الشاحنة.",
+      "image": "https://goubraim.github.io/data/images/mwakif/17.jpeg"
+    },
+    {
+      "id": 18,
+      "description": "نتواجد في ملتقى الطرق، وتوجد علامة ليس لكم حق الاسبقية، تقوم السيارتين الحمراء والصفراء بالمرور أولا لأنهم يتواجدان في الطريق الرئيسية وبعد ذلك تمر السيارة الزرقاء.",
+      "image": "https://goubraim.github.io/data/images/mwakif/18.jpeg"
+    },
+    {
+      "id": 19,
       "description": "",
-      "image": "https://goubraim.github.io/data/images/mwakif/1.jpeg"
+      "image": "https://goubraim.github.io/data/images/mwakif/19.jpeg"
+    },
+    {
+      "id": 20,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/20.jpeg"
+    },
+    {
+      "id": 21,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/21.jpeg"
+    },
+    {
+      "id": 22,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/22.jpeg"
+    },
+    {
+      "id": 23,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/23.jpeg"
+    },
+    {
+      "id": 24,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/24.jpeg"
+    },
+    {
+      "id": 25,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/25.jpeg"
+    },
+    {
+      "id": 26,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/26.jpeg"
+    },
+    {
+      "id": 27,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/27.jpeg"
+    },
+    {
+      "id": 28,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/28.jpeg"
+    },
+    {
+      "id": 29,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/29.jpeg"
+    },
+    {
+      "id": 30,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/30.jpeg"
+    },
+    {
+      "id": 31,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/31.jpeg"
+    },
+    {
+      "id": 32,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/32.jpeg"
+    },
+    {
+      "id": 33,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/33.jpeg"
+    },
+    {
+      "id": 34,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/34.jpeg"
+    },
+    {
+      "id": 35,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/35.jpeg"
+    },
+    {
+      "id": 36,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/36.jpeg"
+    },
+    {
+      "id": 37,
+      "description": "",
+      "image": "https://goubraim.github.io/data/images/mwakif/37.jpeg"
     }
   ]
